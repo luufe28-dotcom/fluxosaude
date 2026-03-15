@@ -1,0 +1,7 @@
+{
+  "name": "Fluxo Saúde - Gestão Estratégica para Saúde",
+  "description": "Parceira estratégica de profissionais da saúde para eliminar sobrecarga administrativa. Foco em evolução, organização e resultados na gestão de clínicas e médicos.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
